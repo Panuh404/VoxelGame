@@ -1,0 +1,21 @@
+[submodule "VoxelGame/vendor/GLFW"]
+	path = VoxelGame/vendor/GLFW
+	url = https://github.com/glfw/glfw.git
+[submodule "VoxelGame/vendor/glm"]
+	path = VoxelGame/vendor/glm
+	url = https://github.com/icaven/glm
+[submodule "VoxelGame/vendor/spdlog"]
+	path = VoxelGame/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "VoxelGame/vendor/lodepng"]
+	path = VoxelGame/vendor/lodepng
+	url = https://github.com/lvandeve/lodepng
+[submodule "VoxelGame/vendor/ImGui"]
+	path = VoxelGame/vendor/ImGui
+	url = https://github.com/ocornut/imgui
+[submodule "VoxelGame/vendor/FastNoiseLite"]
+	path = VoxelGame/vendor/FastNoiseLite
+	url = https://github.com/Auburn/FastNoiseLite
+[submodule "VoxelGame/vendor/miniaudio"]
+	path = VoxelGame/vendor/miniaudio
+	url = https://github.com/mackron/miniaudio

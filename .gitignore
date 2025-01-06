@@ -1,0 +1,14 @@
+# Binaries
+Binaries/
+Intermediates/
+
+# ImGUI Files
+*.ini
+
+# Visual Studio
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
